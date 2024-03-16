@@ -1,0 +1,10 @@
+@media screen and (orientation: portrait) {
+    body {
+        background-image: url("../../images/background/pergaminho.png");
+        background-repeat: no-repeat;
+        background-position: 0 15vh;
+        background-size: 100vw;
+        overflow: hidden;
+        background-color: #F6F6F6;
+    }
+}

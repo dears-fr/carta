@@ -1,0 +1,100 @@
+@media screen and (orientation: landscape) {
+    div {
+        margin: 0;
+        height: 1.7vw;
+    }
+    
+    p {
+        margin: 0;
+        font-size: 1vw;
+        font-family:cursive;
+        width: 100%;
+    }
+    
+    #div-principal {
+        margin-left: 32vw;
+        margin-top: 2.3vw;
+        width: 37vw;
+    }
+    
+    #div1 {
+        margin-left: 6vw;
+    }
+    
+    #div2 {
+        margin-left: 6.63vw;
+    }
+    
+    #div3 {
+        margin-left: 6.88vw;
+    }
+    
+    #div4 {
+        margin-left: 7.01vw;
+    }
+    
+    #div5 {
+        margin-left: 7.12vw;
+    }
+    
+    #div6 {
+        margin-left: 7.01vw;
+    }
+    
+    #div7 {
+        margin-left: 6.96vw;
+    }
+    
+    #div8 {
+        margin-left: 6.82vw;
+    }
+    
+    #div9 {
+        margin-left: 6.63vw;
+    }
+    
+    #div10 {
+        margin-left: 6.44vw;
+    }
+    
+    #div11 {
+        margin-left: 6.14vw;
+    }
+    
+    #div12 {
+        margin-left: 5.83vw;
+    }
+    
+    #div13 {
+        margin-left: 5.49vw;
+    }
+    
+    #div14 {
+        margin-left: 5.08vw;
+    }
+    
+    #div15 {
+        margin-left: 4.63vw;
+    }
+    
+    #div16 {
+        margin-left: 4.10vw;
+    }
+    
+    #div17 {
+        margin-left: 3.72vw;
+    }
+    
+    #div18 {
+        margin-left: 3.36vw;
+    }
+    
+    #div19 {
+        margin-left: 2.97vw;
+    }
+    
+    #div20 {
+        margin-top: .6vw;
+        margin-left: 16.49vw;
+    }
+}
