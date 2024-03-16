@@ -1,12 +1,12 @@
 @media screen and (orientation: portrait) {
     div {
         margin: 0;
-        height: 2.1vh;
+        height: 2.2vh;
         width: 66vw;
     }
     
     p {
-        font-size: 4.2vw;
+        font-size: 4vw;
         font-family: cursive;
         height: 100%;
         width: 100%;
@@ -99,7 +99,7 @@
     }
     
     #div20 {
-        margin-top: .6vw;
+        margin-top: 0.35vh;
         margin-left: 30vw;
         width: calc(100% - 30vw);
     }
