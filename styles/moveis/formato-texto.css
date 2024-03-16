@@ -102,5 +102,6 @@
         margin-top: 0.35vh;
         margin-left: 30vw;
         width: calc(100% - 30vw);
+        height: 3vh;
     }
 }
